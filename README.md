@@ -50,6 +50,11 @@ Developed three distinct custom convolutional models from scratch to investigate
 
 ---
 
+## Results Summary
+- **Best Model:** Custom Model 3 (Dropout-regularized CNN)
+- **Top Accuracy:** 75.49%
+- **Key Finding:** Progressive dropout effectively bridged the variance gap observed in baseline models, preventing overfitting on the CIFAR-10 low-resolution domain.
+
 ## Usage
 
 1. **Install Dependencies:** Ensure your Python environment has the necessary deep learning modules configured:
